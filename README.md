@@ -33,7 +33,7 @@ Import all constants: from constants import * into the Jupyternotebook.
 
 5. Link the keys to the signing libraries.
 
-6. Execute transactions. 
+6. Execute transactions- ETH and BTCTEST. 
 
 7. View ETH transactions in Metamask account and Ganache- refer screen shots below.
 
