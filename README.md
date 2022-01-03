@@ -8,6 +8,8 @@ In addition to the below items listed, HD Wallet Derive and Blockchain TX should
 - bit Python Bitcoin library
 - web3.py Python Ethereum library
 
+Have used Metamask, Ganache and Blockcypher to execute/view transactions.
+
 Need to create a symlink called derive for the hd-wallet-derive/hd-wallet-derive.php script. This will clean up the command needed to run the script in our code, as we can call ./derive instead of ./hd-wallet-derive/hd-wallet-derive.php. Make sure you are in the top level project directory - in this case the directory named wallet. Windows Users: Creating symlinks is not supported by default on Windows, only reading them, so Windows users must perform the following steps:
 - Open up Git-Bash as an administrator (right-click on Git-Bash in the start menu).
 - Within bash, run the command export MSYS=winsymlinks:nativestrict.
